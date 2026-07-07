@@ -341,5 +341,4 @@
 # 17. 
 # 18.
 # 19. Write a Python program to count the number of unique words in a sentence using sets.
-# 20. Given set1 = {'a', 'b', 'c'} and set2 = {'b', 'c', 'd'}, 
-#       create a new set containing only items unique to each set.
+# 20.
