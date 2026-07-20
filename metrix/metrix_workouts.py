@@ -204,16 +204,42 @@ for i in range(len(product)):
     for j in range(len(product)):
         print(product[i][j],end="   ")
     print( )
-        
+
+ #OUTPUT:
+
+# enter the number of ROW'S for THE METRIX     :3
+# enter the number of COLUMN'S for THE METRIX  :3
+# enter data for the first metrix:1
+# enter data for the first metrix:2
+# enter data for the first metrix:3
+# enter data for the first metrix:4
+# enter data for the first metrix:3
+# enter data for the first metrix:2
+# enter data for the first metrix:1
+# enter data for the first metrix:2
+# enter data for the first metrix:3
+
+# enter number of columns of the 2nd metrix:3
+# enter the number of columns for the 2nd metrix:3
+# enter the elements for the 2nd mtrix:3
+# enter the elements for the 2nd mtrix:2
+# enter the elements for the 2nd mtrix:1
+# enter the elements for the 2nd mtrix:4
+# enter the elements for the 2nd mtrix:2
+# enter the elements for the 2nd mtrix:3
+# enter the elements for the 2nd mtrix:2
+# enter the elements for the 2nd mtrix:4
+# enter the elements for the 2nd mtrix:5
+
+# 17   18   22   
+# 28   22   23   
+# 17   18   22     
+#=======================================================================================================================================#        
 
 
 
 
 
-
-            
-
-    
 
     
     
